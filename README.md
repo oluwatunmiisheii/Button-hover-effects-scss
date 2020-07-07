@@ -1,2 +1,2 @@
-# Button-hover-effects-scss
-Repo for button hover effect
+# cool button hover scss
+Repo for cool button hover effect
